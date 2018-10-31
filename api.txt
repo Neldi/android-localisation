@@ -1,0 +1,24 @@
+{"vote_count":1645,
+"id":335983,
+"video":false,
+"vote_average":6.6,
+"title":"Venom",
+"popularity":397.335,
+"poster_path":"\/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+"original_language":"en",
+"original_title":"Venom",
+"genre_ids":[878,28,80,28,27],
+"backdrop_path":"\/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+"adult":false,
+
+
+
+"vote_count":1645,
+"id":335983,
+"title":"Venom",
+"vote_average":6.6,
+"poster_path":"\/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+"overview":"When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
+"release_date":"2018-10-03"}
+
+api.themoviedb.org/3/movie/now_playing?api_key=dd4d33b25af6f3772594734733758e93
